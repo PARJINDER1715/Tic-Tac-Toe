@@ -29,6 +29,15 @@ An interactive Tic-Tac-Toe game built with Python and Streamlit, featuring:
    git clone https://github.com/yourusername/tic-tac-toe-ai-streamlit.git
    cd tic-tac-toe-ai-streamlit
 
+   
+   pip install -r requirements.txt
+
+
+   streamlit run app.py
+
+
+
+
 
 2. pip install -r requirements.txt
 
