@@ -27,14 +27,13 @@ An interactive Tic-Tac-Toe game built with Python and Streamlit, featuring:
 
  **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-ai-streamlit.git
+   git clone (https://github.com/PARJINDER1715/Tic-Tac-Toe).git
    cd tic-tac-toe-ai-streamlit
 
    
-   pip install -r requirements.txt
+   
 
-
-   streamlit run app.py
+streamlit run app.py
 
 
 
