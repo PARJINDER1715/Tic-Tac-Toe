@@ -7,8 +7,10 @@ An interactive Tic-Tac-Toe game built with Python and Streamlit, featuring:
 - 🧠 Multiple difficulty levels (Easy, Medium, Hard)
 - 👯 Local two-player mode
 - 🧼 Clean UI with emoji-based game board
-- 👨‍💻 Developed by [Parjinder Singh](https://www.linkedin.com/in/parjinder-singh)
 
+  
+- Project developed by **Parjinder Singh**  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/parjindersingh/)  
 ---
 
 ## 🛠️ Features
